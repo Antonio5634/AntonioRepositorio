@@ -13,6 +13,26 @@ namespace exercicio7
         {
             Console.WriteLine("informe um valor:");
             A = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("informe um valor:");
+            B = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("informe um valor:");
+            C = Convert.ToInt32(Console.ReadLine());
+
+            somaAB = A + B;
+
+            if (somaAB < C)
+            {
+                Console.WriteLine("é menor");
+            }
+            else if (somaAB > C)
+            {
+                Console.WriteLine("é maior");
+            }
+            else if (somaAB == C)
+            {
+                Console.WriteLine("são iguais");
+            }
+            Console.ReadKey();
         }
     }
 }
