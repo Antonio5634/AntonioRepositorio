@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unidade6.UnidadeVII
+namespace Unidade6.ExercicioSlide
 {
-    class ExercicioSlide
+    class Exercicio1Slide_operacoesAritmeticas
     {
     }
 }
