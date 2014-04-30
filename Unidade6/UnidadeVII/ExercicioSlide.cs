@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unidade6.ExercicioComplementares
+namespace Unidade6.UnidadeVII
 {
-    class Exercicio7
+    class ExercicioSlide
     {
-
     }
 }
