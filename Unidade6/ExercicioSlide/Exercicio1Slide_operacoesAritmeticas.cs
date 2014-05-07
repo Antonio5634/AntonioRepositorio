@@ -9,7 +9,7 @@ namespace Unidade6.ExercicioSlide
     class Exercicio1Slide_operacoesAritmeticas
     {
         
-        static void Main(string[] args)
+        static void Main766(string[] args)
         {
              double a = 5;
             double b = 2;
