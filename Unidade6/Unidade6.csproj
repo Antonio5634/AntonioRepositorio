@@ -51,6 +51,7 @@
     <Compile Include="ExercicioFixacao\Exercicio8.cs" />
     <Compile Include="ExercicioFixacao\exercicio9.cs" />
     <Compile Include="ExercicioSlide\Exercicio1Slide_operacoesAritmeticas.cs" />
+    <Compile Include="ExercicioSlide\OperadorAtri1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -14,7 +14,7 @@ namespace Unidade6.ExercicioFixacao
         public static char opcao;
         public static string tipo_pagamento,nome;
 
-        static void Main(string[] args)
+        static void Main7576(string[] args)
         {
             Console.WriteLine("Informe seu nome:");
             nome = Convert.ToString(Console.ReadLine());

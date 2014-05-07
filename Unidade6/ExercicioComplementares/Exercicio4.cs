@@ -10,7 +10,7 @@ namespace Unidade6.ExercicioComplementares
     {
         public static Random gols = new Random();
         public static int gremio, inter;
-        static void Main(string[] args)
+        static void Main454(string[] args)
         {
             int gremio = gols.Next(0, 5);
             int inter = gols.Next(0, 5);

@@ -9,7 +9,7 @@ namespace Unidade6.ExercicioFixacao
     class exercicio9
     {
         public static int A, B, C, somaAB;
-        static void Main(string[] args)
+        static void Main323(string[] args)
         {
             Console.WriteLine("informe um valor:");
             A = Convert.ToInt32(Console.ReadLine());
