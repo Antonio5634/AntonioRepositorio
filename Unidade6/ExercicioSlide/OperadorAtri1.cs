@@ -10,14 +10,23 @@ namespace Unidade6.ExercicioSlide
     {
         static void Main(string[] args)
         {
-            int valor = 1;
-                valor +=2;
-            valor-=1;
-            valor*=6;
-            valor /=3;
-            valor%=3;
-            valor++;
-            valor--;
+            //int valor = 1;
+            //    valor +=2;
+            //valor-=1;
+            //valor*=6;
+            //valor /=3;
+            //valor%=3;
+            //valor++;
+            //valor--;
+
+            //int i = 10;
+            //Console.WriteLine(i > 0 || i++ < 500);
+            //Console.WriteLine(i > 0 && i++ < 500);
+            //Console.WriteLine(i>0 | i++<500);
+            //Console.WriteLine(i > 0 & i++ < 500);
+
+
+            
         }
     }
 }
