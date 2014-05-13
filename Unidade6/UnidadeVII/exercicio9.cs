@@ -11,7 +11,7 @@ namespace Unidade6.UnidadeVII
         public static double quantidade_adquirida, preco_unitario,total,desconto;
         public static string nome_produto;
 
-        static void Main(string[] args)
+        static void Main54(string[] args)
         {
             Console.WriteLine("informeo nomedo produto:");
             nome_produto = Convert.ToString(Console.ReadLine());

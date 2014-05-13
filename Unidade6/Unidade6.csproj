@@ -52,13 +52,21 @@
     <Compile Include="ExercicioFixacao\exercicio9.cs" />
     <Compile Include="ExercicioSlide\Exercicio1Slide_operacoesAritmeticas.cs" />
     <Compile Include="ExercicioSlide\OperadorAtri1.cs" />
+    <Compile Include="ExerSlideVIII\exercicio1.cs" />
+    <Compile Include="ExerSlideVIII\exercicio2.cs" />
+    <Compile Include="ExerSlideVIII\exercicio3.cs" />
+    <Compile Include="ExerSlideVIII\exercicio4.cs" />
+    <Compile Include="ExerSlideVIII\exercicio5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnidadeVII\exercicio7.cs" />
+    <Compile Include="UnidadeVII\exercicio8.cs" />
+    <Compile Include="UnidadeVII\exercicio9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="UnidadeVII\" />
+    <Folder Include="MedindoaFebreV\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
