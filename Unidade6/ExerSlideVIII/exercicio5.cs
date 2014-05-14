@@ -10,7 +10,7 @@ namespace Unidade6.ExerSlideVIII
     {
         public static Random num = new Random();
 
-        static void Main(string[] args)
+        static void Main688(string[] args)
         {
             int a = num.Next(0, 10);
             int b = num.Next(0, 10);
