@@ -8,7 +8,7 @@ namespace Unidade6.ExerSlideVIII.Repeticoes
 {
     class exercicio6
     {
-        static void Main(string[] args)
+        static void Main6557(string[] args)
         {
             for (int i = 1; i < 4; i++)
             {
