@@ -10,7 +10,7 @@ namespace Unidade6.MedindoaFebreVI
     {
         public static int matricula, nota1, nota2, nota3, aulas_comparecidas,alun,media,total,alunos,au1,au2;
         public static Random notas = new Random();
-        static void Main(string[] args)
+        static void Main7676(string[] args)
         {
             Console.WriteLine("informe sua  matricula:");
             matricula = Convert.ToInt32(Console.ReadLine());

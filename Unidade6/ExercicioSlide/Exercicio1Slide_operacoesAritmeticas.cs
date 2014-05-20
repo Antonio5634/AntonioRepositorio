@@ -9,7 +9,7 @@ namespace Unidade6.ExercicioSlide
     class Exercicio1Slide_operacoesAritmeticas
     {
         
-        static void Main32432(string[] args)
+        static void Main8658(string[] args)
         {
             // double a = 5;
             //double b = 2;
@@ -20,19 +20,11 @@ namespace Unidade6.ExercicioSlide
             //Math.Pow(a, b);
 
             int a = 0;
-            for (int i = 1; i < 10; i++)
-            {
-                if (i == 3 || i == 5)
-                {
-                    continue;
+            for(int i =0; i<10;i++){
+                for(int j=0; j<10;j++){
+                    a++;
                 }
-                if (i == 9)
-                {
-                    break;
-                }
-                a += i;
             }
-
             Console.WriteLine(a);    
             Console.ReadKey();
 
