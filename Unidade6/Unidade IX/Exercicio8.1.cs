@@ -9,7 +9,7 @@ namespace Unidade6.Unidade_IX
     class Exercicio7
     {
         public static Random numero = new Random();
-        static void Main(string[] args)
+        static void Main22(string[] args)
         {
             int[] sequencia = new int[10];
             for (int i = 0; i < sequencia.Length; i++)
