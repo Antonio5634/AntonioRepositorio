@@ -78,6 +78,10 @@
     <Compile Include="Unidade IX\Exercicio6.cs" />
     <Compile Include="Unidade IX\Exercicio8.1.cs" />
     <Compile Include="Unidade IX\Exercicio7.cs" />
+    <Compile Include="Unidade XI\Fixação\exercicio1.cs" />
+    <Compile Include="Unidade XI\Fixação\exercicio2.cs" />
+    <Compile Include="Unidade XI\Fixação\exercicio3.cs" />
+    <Compile Include="Unidade XI\Fixação\exercicio4.cs" />
     <Compile Include="Unidade X\ConsumoDeCombustivel.cs" />
     <Compile Include="UnidadeVII\exercicio7.cs" />
     <Compile Include="UnidadeVII\exercicio8.cs" />

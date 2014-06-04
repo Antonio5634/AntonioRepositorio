@@ -8,7 +8,7 @@ namespace Unidade6.Unidade_IX.Complementares
 {
     class Exercicio1
     {
-        public static int aux;
+        //public static int aux=0;
         static void Main32(string[] args)
         {
            //int [] opcao = new int[3];

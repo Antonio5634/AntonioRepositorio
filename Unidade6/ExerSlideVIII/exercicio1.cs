@@ -9,7 +9,7 @@ namespace Unidade6.ExerSlideVIII
     class exercicio1
     {
         public static Random notas = new Random();
-        public static double n1;
+        
         static void Main2(string[] args)
         {
             double n1 = notas.Next(0, 10);

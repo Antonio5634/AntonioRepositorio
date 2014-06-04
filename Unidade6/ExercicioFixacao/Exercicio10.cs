@@ -9,10 +9,11 @@ namespace Unidade6.ExercicioFixacao
     
     class Exercicio10
     {
-        public static double preço_total, desconto, preço_inicial, resultado;
+        public static double preço_total, desconto, preço_inicial;
     
         public static char opcao;
-        public static string tipo_pagamento,nome;
+        public static string nome;
+        public static string tipo_pagamento;
 
         static void Main7576(string[] args)
         {
