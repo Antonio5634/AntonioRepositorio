@@ -92,6 +92,11 @@
     <Compile Include="Unidade XI\Fixação\exercicio3.cs" />
     <Compile Include="Unidade XI\Fixação\exercicio4.cs" />
     <Compile Include="Unidade X\ConsumoDeCombustivel.cs" />
+    <Compile Include="UnidadeVII\exercicio1.cs" />
+    <Compile Include="UnidadeVII\exercicio2.cs" />
+    <Compile Include="UnidadeVII\exercicio3.cs" />
+    <Compile Include="UnidadeVII\exercicio5.cs" />
+    <Compile Include="UnidadeVII\exercicio6.cs" />
     <Compile Include="UnidadeVII\exercicio7.cs" />
     <Compile Include="UnidadeVII\exercicio8.cs" />
     <Compile Include="UnidadeVII\exercicio9.cs" />
