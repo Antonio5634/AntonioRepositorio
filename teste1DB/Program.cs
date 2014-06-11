@@ -13,7 +13,7 @@ namespace teste1DB
     {
         static void Main(string[] args)
         {
-            string connectionString = "@ Data Sourcer=(TesteDB)\vl1.0;Attach0bfilename =C:C:\Users\antoniosmac\Source\Repos\AntonioRepositorio";
+            string connectionString = "@ Data Sourcer=(TesteDB)\vl1.0;Attach0bfilename =C:\Users\antoniosmac\Source\Repos\AntonioRepositorio";
 
             SqlConnection sqlConnection = new SqlConnection(connectionString);
             sqlConnection.Open();
