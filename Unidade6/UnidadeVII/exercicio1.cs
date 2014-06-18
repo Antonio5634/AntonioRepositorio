@@ -8,7 +8,7 @@ namespace Unidade6.UnidadeVII
 {
     class exercicio1
     {
-        static void Main()
+        static void Main5457()
         {
             int[] codigo = new int[2];
             double[] preco = new double[15];

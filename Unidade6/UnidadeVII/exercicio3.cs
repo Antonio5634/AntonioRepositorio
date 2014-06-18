@@ -8,7 +8,7 @@ namespace Unidade6.UnidadeVII
 {
     class exercicio3
     {
-        static void Main()
+        static void Main56556()
         {
             Console.WriteLine("Informe o numero total de mercadorias em estoque: ");
             int numTotal = Convert.ToInt32(Console.ReadLine());

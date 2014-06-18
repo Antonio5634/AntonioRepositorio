@@ -9,7 +9,7 @@ namespace Unidade6.Unidade_VII.Slide
     class exercicio8
     {
         public static string castigo;
-        static void Main()
+        static void Main6565()
         {
 
             int i = 0;
