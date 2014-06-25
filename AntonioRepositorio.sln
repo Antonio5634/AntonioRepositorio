@@ -13,6 +13,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tarefa Arrays", "Tarefa Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio1", "exercicio1\exercicio1.csproj", "{E128E23E-278F-4C63-B8E7-ED56E6DC64BB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio Complementares Coleções", "Exercicio Complementares Coleções", "{BA8B6048-2B29-4A8C-B9C7-C92FCC2BB6E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coleções", "Coleções", "{870933CB-0C0D-45E2-A885-11F995DAAB03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_coleções", "Exercicio_coleções\Exercicio_coleções.csproj", "{0871E189-5345-449B-ABF9-413CA4F4718F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,13 +37,19 @@ Global
 		{E128E23E-278F-4C63-B8E7-ED56E6DC64BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E128E23E-278F-4C63-B8E7-ED56E6DC64BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E128E23E-278F-4C63-B8E7-ED56E6DC64BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0871E189-5345-449B-ABF9-413CA4F4718F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0871E189-5345-449B-ABF9-413CA4F4718F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0871E189-5345-449B-ABF9-413CA4F4718F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0871E189-5345-449B-ABF9-413CA4F4718F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{0ECD87A1-27CD-4D22-AF5F-C2C69C0B96D1} = {64D08B15-5FBD-46FF-80CD-82572CD442A2}
 		{64D08B15-5FBD-46FF-80CD-82572CD442A2} = {69BFDC05-0E28-4775-8F09-D8789520B360}
 		{E128E23E-278F-4C63-B8E7-ED56E6DC64BB} = {69BFDC05-0E28-4775-8F09-D8789520B360}
+		{0ECD87A1-27CD-4D22-AF5F-C2C69C0B96D1} = {64D08B15-5FBD-46FF-80CD-82572CD442A2}
+		{870933CB-0C0D-45E2-A885-11F995DAAB03} = {BA8B6048-2B29-4A8C-B9C7-C92FCC2BB6E3}
+		{0871E189-5345-449B-ABF9-413CA4F4718F} = {870933CB-0C0D-45E2-A885-11F995DAAB03}
 	EndGlobalSection
 EndGlobal
