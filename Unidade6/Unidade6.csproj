@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="exemplo_array\Exemplos\exem1.cs" />
     <Compile Include="ExercicioComplementares\Exercicio1.cs" />
     <Compile Include="ExercicioComplementares\Exercicio2.cs" />
     <Compile Include="ExercicioComplementares\Exercicio3.cs" />
@@ -171,6 +172,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Banco de Dados\Produto.sql" />
+    <Content Include="Banco de Dados\TAB_escolar.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
