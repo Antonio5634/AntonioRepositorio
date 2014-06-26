@@ -9,17 +9,16 @@ namespace Exercicio_coleções
 {
     class Program
     {
-        public static ArrayList _ArrayList = new ArrayList();
-        static void Main(string[] args)
-        {
-            for (int i = 1; i <100; i++)
-            {
-                _ArrayList.Add(i);
-                _ArrayList.RemoveAt(1);
-                _ArrayList.Sort();//crescente
-                 _ArrayList.Reverse(); //decrescente
-            }
-            Console.ReadKey();
-        }
+         public static Random haha = new Random();
+         static void Main(string[] args)
+         {
+             List<int> lista = new List<int>();
+             for (int i = 0; i < 7; i++)
+             {
+                 lista.Add(haha.Next(1, 100));
+                 Console.WriteLine(lista[i]);
+             }
+             Console.WriteLine("Maior valor: " + lista.Max());
+         }
     }
 }
