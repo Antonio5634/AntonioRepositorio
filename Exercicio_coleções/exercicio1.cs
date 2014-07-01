@@ -10,7 +10,7 @@ namespace Exercicio_coleções
     class Program
     {
          public static Random haha = new Random();
-         static void Main(string[] args)
+         static void Main5435(string[] args)
          {
              List<int> lista = new List<int>();
              for (int i = 0; i < 7; i++)

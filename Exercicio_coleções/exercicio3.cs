@@ -9,7 +9,7 @@ namespace Exercicio_coleções
     class exercicio3
     {
         public static Random haha = new Random();
-        static void Main()
+        static void Main5465()
         {
             List<int> lista1 = new List<int>();
             List<int> lista2 = new List<int>();

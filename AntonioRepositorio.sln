@@ -19,6 +19,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coleções", "Coleções", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_coleções", "Exercicio_coleções\Exercicio_coleções.csproj", "{0871E189-5345-449B-ABF9-413CA4F4718F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Html", "Html", "{B01B6F74-ED9D-4E05-B6C1-0D28351E70C8}"
+	ProjectSection(SolutionItems) = preProject
+		exemplo1.html = exemplo1.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
