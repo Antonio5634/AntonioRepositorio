@@ -21,7 +21,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_coleções", "Exe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Html", "Html", "{B01B6F74-ED9D-4E05-B6C1-0D28351E70C8}"
 	ProjectSection(SolutionItems) = preProject
+		css.html = css.html
 		exemplo1.html = exemplo1.html
+		style1.css = style1.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{2A99864C-BDD8-4A2A-82A3-DB84CF39ED58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html_css", "html_css", "{571E09EF-F54B-4B2A-8D9F-1974DABD2CE3}"
+	ProjectSection(SolutionItems) = preProject
+		HTML\css.html = HTML\css.html
+		HTML\exemplo1.html = HTML\exemplo1.html
+		muse.jpg = muse.jpg
+		HTML\style1.css = HTML\style1.css
 	EndProjectSection
 EndProject
 Global

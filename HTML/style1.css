@@ -1,0 +1,19 @@
+﻿h2{
+    text-align:center;
+    color:darkblue;
+}
+#label{
+    text-align:start;
+    color: white;
+    background: black;
+}
+p.blue{
+    color:blue;
+    font-size:50pt;
+    margin-left:200pt;
+}
+body{
+    background-image:url("muse.jpg");
+    background-size: 100%;
+    background: 100%;
+}
